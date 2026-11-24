@@ -5,4 +5,4 @@
 - **Kelas:** TI24C
 
 ## Screenshot Hasil Aplikasi
-![Screenshot Aplikasi](screenshotshasil_aplikasi.png)
+screenshotshasil_aplikasi.png/Screenshot 2026-11-25 005326.png
