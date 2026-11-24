@@ -5,4 +5,4 @@
 - **Kelas:** TI24C
 
 ## Screenshot Hasil Aplikasi
-![Screenshot Aplikasi](screenshots/hasil_aplikasi.png)
+![Screenshot Aplikasi](screenshotshasil_aplikasi.png)
